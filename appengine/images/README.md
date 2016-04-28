@@ -12,6 +12,8 @@ detailed instructions.
    with your project name.
 1. Update the `<version>` tag in `src/main/webapp/WEB-INF/appengine-web.xml`
    with your version name.
+1. Create the Default Cloud Storage Bucket on the AppEngine Setting page for your project
+   https://console.cloud.google.com/appengine/settings
 
 ## Running locally
     $ mvn appengine:devserver

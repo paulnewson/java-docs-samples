@@ -17,4 +17,7 @@
   <application>paulnewson-java-doc-samples</application>
   <version>1</version>
   <threadsafe>true</threadsafe>
+  <resource-files>
+    <include path="/example.jpg" />
+  </resource-files>
 </appengine-web-app>
